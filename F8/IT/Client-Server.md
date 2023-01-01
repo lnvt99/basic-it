@@ -4,7 +4,7 @@
 - Server: Receiving and handling message
 
   - Source code
-  - nginx, apache:s server software
+  - nginx, apache: server software
   - Language programming
   - Database (Can apply client & server with server)
 
