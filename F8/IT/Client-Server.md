@@ -1,12 +1,13 @@
 # CLIENT - SERVER
 
-- Client: Request and response message
+- Client: Request and response message (TCP/IP or HTTP)
 - Server: Receiving and handling message
 
   - Source code
-  - nginx, apache
+  - nginx, apache:s server software
   - Language programming
-  - Database (Can apply client & server)
+  - Database (Can apply client & server with server)
 
-- TCP/IP & HTTP:
+# TCP/IP & HTTP:
+
 - Transmission Control Protocol/Internet Protocol
